@@ -1,0 +1,12 @@
+ul{
+    list-style-type: square;
+    
+}
+
+/* quando eu uso a , para separar eu quero que todos recebam a estilização do css, mas quando colocamos sem a vírgula, só os ul com li que receberão. Neste caso o li dos ol não receberão a estilização:
+
+ul li{
+    display: inline;
+
+}
+*/
